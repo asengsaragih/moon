@@ -10,9 +10,5 @@ https://asengsaragih.github.io/moon
 
 <img src="https://raw.githubusercontent.com/asengsaragih/moon/master/src/screenshot.jpg" width="720px"/>
 
-## Source
-
-```text
-Source Images
+## Image Source
 [Phasesmoon](https://phasesmoon.com/)
-```
